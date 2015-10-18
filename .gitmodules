@@ -1,1 +1,3 @@
-
+[submodule "app/android"]
+	path = app/android
+	url = https://github.com/FoodBook/android_app.git
